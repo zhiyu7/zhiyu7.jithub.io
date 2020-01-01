@@ -2,8 +2,8 @@
   "name": "Zhi Yu",
   "short_name": "Zhi Yu",
   "lang": "en-us",
-  "theme_color": "#2962ff",
-  "background_color": "#2962ff",
+  "theme_color": "rgb(251, 191, 183)",
+  "background_color": "rgb(251, 191, 183)",
   "icons": [{
     "src": "img/icon-192.png",
     "sizes": "192x192",
