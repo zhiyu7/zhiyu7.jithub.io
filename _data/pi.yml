@@ -1,17 +1,18 @@
-- name: Dr. Richard Feynman
+- name: Zhi Yu, MB, PhD
   photo: headshot.jpg
-  info: Richard C. Tolman Professor, California Institute of Technology
-  email: richard@university.edu
-  github: https://github.com/
-  researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
-  cv: cv/cv.pdf
+  info: Investigator, Assistant Professor
+  email: zyu5@mgh.harvard.edu 
+  x: https://x.com/ZhiYu_ACGT 
+  linkedin: https://www.linkedin.com/in/zhiyu-acgt/
+  scholar: https://scholar.google.com/citations?hl=en&user=gd04NQ8AAAAJ&view_op=list_works&sortby=pubdate
+  
   # Change the items in "education" you have (up to 6)
-  education:
-    [
-      "(1942) Ph.D. Physics, Princeton University",
-      "(1939) B.S. Physics, Massachusetts Institute of Technology",
-    ]
+#  education:
+#    [
+#      "PhD, Johns Hopkins Bloomberg School of Public Health",
+##      "MS, Harvard T.H. Chan School of Public Health",
+#      "MB, Hong Kong Baptist University"
+#    ]
 
-  educationshort:
-    ["(1942) Ph.D. Physics, Princeton", "(1939) B.S. Physics, MIT"]
+ # educationshort:
+ #   ["(1942) Ph.D. Physics, Princeton", "(1939) B.S. Physics, MIT"]

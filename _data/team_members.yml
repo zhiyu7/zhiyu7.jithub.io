@@ -1,9 +1,11 @@
-- name: Example student name
+- name: Meghana Kamineni
   photo: rock.jpg
-  info: Postdoc, started Oct 2040
-  email: exampleemail@gmail.com
-  website: https://website.com
+  info: Co-mentored student with Dr. Pradeep Natarajan
+  current_degree: Harvard Medical School, Medicine
+  previously_degree: MIT, Computer Science
 
-- name: "This could be you !"
+- name: Xinyu Wang
   photo: rock.jpg
-  info: See <a href="www">openings</a> for more info
+  info: Co-mentored student with Dr. Ed Giovannucci
+  current_degree: Harvard T.H. Chan School of Public Health, Epidemiology
+  previously_degree: Peking University, Public Health

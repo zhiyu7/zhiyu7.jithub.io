@@ -5,28 +5,32 @@ sitemap: false
 permalink: /
 ---
 
-### Welcome!
+### Computational Multi-omics for Age-related Diseases
 
-Theoretical physics is a branch of physics that focuses on the development of mathematical models and theories to understand and explain natural phenomena.
-It plays a crucial role in our understanding of the fundamental laws of the universe and the fundamental particles that make up all matter.
-Research in theoretical physics helps us to make predictions about how the universe works and to test these predictions through experiments.
-It also helps us to understand the fundamental principles that govern the behavior of matter and energy, and to explore the limits of our current knowledge.
-Theoretical physics helps us to make progress in a wide range of fields, including cosmology, particle physics, and quantum mechanics, and it has led to many important discoveries and technological innovations.
+**We are looking for a postdoctoral researcher, a computational associate, and graduate students! Please send your CV to zyu5@mgh.harvard.edu if interested : )**
+
+Our research focuses on computational modeling of human multi-omics data to uncover the mechanisms driving cardiovascular and other age-related diseases, aiming to identify personalized strategies for disease prevention and treatment.
+
+Key areas of interest include:
+
+- Age-related clonal hematopoiesis (CH; somatic mutations in the blood-forming system) and its somatic-germline interactions, with implications for managing CH-associated diseases.
+
+- Omics-based instruments for testing causal hypothesis in studying diseases.
+
+- Disease risk prediction using static (germline genetic) and dynamic (time-varying lifestyle and clinical fators) data (in collaboration with <a href="https://www.dbei.med.upenn.edu/bio/jin-jin-0" target="_blank">Dr. Jin Jin</a>).
+
+- Machine learning + proteomics for drug discovery (in collaboration with <a href="https://vcresearch.berkeley.edu/faculty/ahmed-alaa" target="_blank">Dr. Ahmed Alaa</a>). 
+
+- Deep learning-derived phenotypes + genetics for understanding diseases (in collaboration with <a href="https://connects.catalyst.harvard.edu/Profiles/display/Person/180872" target="_blank">Dr. Vineet Raghu</a>). 
+
+Our research is largely strengthened by the extensive human and murine datasets we have access to, and we are deeply grateful to our collaborators and cohort PIs for their trust in my former mentors and my team.
 
 <div class="container">
 <div class="row">
 <center>
 <img src="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" width="100%"/><br/>
-Examples of Feynman diagrams. <br/>
-Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
 </center>
 </div>
 </div>
 <br/>
 
-### About me
-
-I am a physicist working in the field of quantum mechanics and quantum electrodynamics.
-I received my undergraduate degree in physics from the Massachusetts Institute of Technology (MIT) in 1939 and went on to earn my PhD from Princeton University in 1942.
-After completing my doctoral studies, I worked on the Manhattan Project, where I helped develop the first atomic bombs.
-After the war, I returned to academia, holding teaching and research positions at Cornell and now at the California Institute of Technology.

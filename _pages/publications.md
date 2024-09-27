@@ -16,17 +16,19 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
 }
 </style>
 
+*equal contribution; [full list of publications](https://scholar.google.com/citations?hl=en&user=gd04NQ8AAAAJ&view_op=list_works&sortby=pubdate)
+
+## Preprints
 <div class="jumbotron">
-### Preprints
-{% bibliography --query @unpublished %}
+{% bibliography --file ref_preprint --no-bibtex %}
 </div>
 
-<div class="jumbotron">
-### Refereed journal articles
-{% bibliography --query @article %}
-</div>
+## Publications
+
+<!-- Display the total count of publications -->
+<p>Total number of publications: {{ site.data.references.ref_pub.size }}</p>
 
 <div class="jumbotron">
-### Refereed conference proceedings
-{% bibliography --query @inproceedings %}
+  <!-- Display all publications without grouping by year -->
+  {% bibliography --file ref_pub --no-bibtex %}
 </div>
