@@ -24,10 +24,12 @@ permalink: /talks/
 
 <div class="jumbotron">
 ### Invited talks
-{% bibliography --query @incollection[keywords ^= invited] %}
+- **Speaker Name**, "Talk Title," *Conference Name*, Year. [Link](#)
+- **Speaker Name**, "Another Invited Talk," *Conference Name*, Year. [Link](#)
 </div>
 
 <div class="jumbotron">
 ### Regular talks
-{% bibliography --query @incollection[keywords != invited] %}
+- **Speaker Name**, "Talk Title," *Conference Name*, Year. [Link](#)
+- **Speaker Name**, "Another Regular Talk," *Conference Name*, Year. [Link](#)
 </div>
