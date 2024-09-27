@@ -20,15 +20,20 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
 
 ## Preprints
 <div class="jumbotron">
-{% bibliography --file ref_preprint --no-bibtex %}
+- **Author Names**, "Title of Preprint," *Journal Name*, Year. [Link](#)
+- **Author Names**, "Another Preprint," *Journal Name*, Year. [Link](#)
 </div>
 
 ## Publications
 
-<!-- Display the total count of publications -->
-<p>Total number of publications: {{ site.data.references.ref_pub.size }}</p>
+<!-- Manually list your publications below -->
+
+<p>Total number of publications: 67</p>
 
 <div class="jumbotron">
-  <!-- Display all publications without grouping by year -->
-  {% bibliography --file ref_pub --no-bibtex %}
+  - **Zhi Yu**, "Publication Title," *Journal Name*, Year. [Link](#)
+  - **Zhi Yu**, "Another Publication Title," *Journal Name*, Year. [Link](#)
+  - **Zhi Yu**, "Further Publication Title," *Journal Name*, Year. [Link](#)
+  <!-- Add more publication entries as needed -->
 </div>
+
