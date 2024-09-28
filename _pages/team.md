@@ -7,6 +7,11 @@ permalink: /team/
 
 ## Team
 
+<!-- Add recruitment message here -->
+<div class="alert alert-info" role="alert">
+  <strong>We are looking for a postdoctoral researcher, a computational associate, and graduate students! Please send your CV to <a href="mailto:zyu5@mgh.harvard.edu">zyu5@mgh.harvard.edu</a> if interested.</strong>
+</div>
+
 <!-- Remove PI section entirely -->
 <!-- Removed the PI section as requested -->
 
@@ -30,14 +35,9 @@ permalink: /team/
   <i>{{ member.info }}<br></i>
 
   <!-- Remove email and homepage links -->
-  <!-- Remove: {% if member.website %}<a href="{{ member.website }}" target="_blank"><i class="fa fa-home fa-2x"></i></a> {% endif %} -->
-  <!-- Remove: {% if member.email %}<a href="mailto:{{ member.email }}" target="_blank"><i class="fa fa-envelope-square fa-2x"></i></a> {% endif %} -->
-
   <p><strong>Current:</strong> {{ member.current_degree }}</p>
-  <p><strong>Previously:</strong> {{ member.previously_degree }}</p> <!-- Corrected this line -->
-  
+  <p><strong>Previously:</strong> {{ member.previously_degree }}</p>
 </div>
-<!-- </div> -->
 
 {% assign number_printed = number_printed | plus: 1 %}
 
@@ -88,3 +88,6 @@ permalink: /team/
 </div>
 {% endif %}
 </div>
+
+
+
