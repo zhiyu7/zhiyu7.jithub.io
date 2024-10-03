@@ -8,9 +8,6 @@ permalink: /team/
 ## Team
 
 <!-- Add recruitment message here -->
-<div class="alert alert-info" role="alert">
-  <strong>We are looking for a postdoctoral researcher, a computational associate, and graduate students! Please send your CV to <a href="mailto:zyu5@mgh.harvard.edu">zyu5@mgh.harvard.edu</a> if interested.</strong>
-</div>
 
 <!-- Remove PI section entirely -->
 <!-- Removed the PI section as requested -->
