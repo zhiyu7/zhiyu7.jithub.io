@@ -41,7 +41,7 @@ We, together with <a href="https://connects.catalyst.harvard.edu/Profiles/displa
 - Master’s degree in genetic epidemiology, biostatistics, statistics, or a related field (Bachelor’s degree with experience also welcome).
 - (Preferred but not required) Experience analyzing genetics and genomics data, such as GWAS and rare variants.
 
-**Apply:** Please contact Dr. Yu via email with your CV, a short introduction, and details of your research experience. 
+**Apply:** Please contact Dr. Yu via email (zyu5@mgh.harvard.edu) with your CV, a short introduction, and details of your research experience. 
 
 </div>
 </div>

@@ -26,8 +26,8 @@ location: >
 # Pages shown in navbar
 nav_pages:
   - name: pi
-  - name: team
   - name: research
+  - name: team
   - name: publications
 #  - name: talks
   - name: openings

@@ -13,7 +13,7 @@ Our research focuses on **computational modeling of human multi-omics** data to 
 
 Key areas of interest:
 
-- Age-related **clonal hematopoiesis** (CH; somatic mutations in the blood-forming system) and its **somatic-germline interplay**, with implications for managing CH-associated diseases.
+- Age-related **clonal hematopoiesis** (CH; clonal expansions in the blood-forming system) and its **somatic-germline interplay**, with implications for managing CH-associated diseases.
 
 - **Omics-based** instruments for testing **causal hypotheses** in studying diseases.
 
