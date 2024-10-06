@@ -1,11 +1,10 @@
 - name: Meghana Kamineni
   photo: Meghana.jpg
   info: Co-mentored student with Dr. Pradeep Natarajan
-  current_degree: Harvard Medical School, Medicine
-  previously_degree: MIT, Computer Science
+  bio: Meghana is a medical student at Harvard Medical School. She is working on using machine learning techniques to identify splenic features in abdominal MRIs that are associated with increased risk for coronary artery disease. She holds a bachelor's degree in Computer Science from MIT.
 
 - name: Xinyu Wang
   photo: Xinyu.jpg
   info: Co-mentored student with Dr. Ed Giovannucci
-  current_degree: Harvard T.H. Chan School of Public Health, Epidemiology
-  previously_degree: Peking University, Public Health
+  bio: Xinyu is currently a master's student in Department of Epidemiology, Harvard T.H. Chan School of Public Health. Her research focuses on integrating multi-omics data to explore the underlying mechanisms of cancers and cardiometabolic diseases. She is also passionate about translating epidemiological findings into clinical practice. She holds dual bachelor’s degrees in Medicine and Economics from Peking University.
+

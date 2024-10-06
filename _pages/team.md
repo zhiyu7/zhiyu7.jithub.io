@@ -1,4 +1,4 @@
----
+--- 
 title: "Team"
 layout: gridlay
 sitemap: false
@@ -6,13 +6,6 @@ permalink: /team/
 ---
 
 ## Team
-
-<!-- Add recruitment message here -->
-
-<!-- Remove PI section entirely -->
-<!-- Removed the PI section as requested -->
-
-## Students
 
 <div class='jumbotron'>
 {% assign number_printed = 0 %}
@@ -31,9 +24,8 @@ permalink: /team/
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br></i>
 
-  <!-- Remove email and homepage links -->
-  <p><strong>Current:</strong> {{ member.current_degree }}</p>
-  <p><strong>Previously:</strong> {{ member.previously_degree }}</p>
+  <!-- Use the 'bio' field for team members -->
+  <p><strong>Bio:</strong> {{ member.bio }}</p>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -49,11 +41,11 @@ permalink: /team/
 {% endif %}
 </div>
 
-## Other <!-- Change "Alumni" to "Thesis Committee" -->
+## Other
 
 <div class='jumbotron'>
 {% assign number_printed = 0 %}
-{% for member in site.data.alumni %} <!-- Adjusted to use alumni data, can rename as needed -->
+{% for member in site.data.alumni %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -68,9 +60,8 @@ permalink: /team/
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br></i>
   
+  <!-- Use the 'Current' field for alumni instead of 'Bio' -->
   <p><strong>Current:</strong> {{ member.current_degree }}</p>
-
-  <!-- Email and homepage links removed as in the "Current Students" section -->
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -85,6 +76,5 @@ permalink: /team/
 </div>
 {% endif %}
 </div>
-
 
 
