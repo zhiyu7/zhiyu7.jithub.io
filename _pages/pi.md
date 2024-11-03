@@ -54,6 +54,32 @@ permalink: /pi/  # Change from /about/ to /pi/
 </div>
 {% endif %}
 
+
+<div class="jumbotron" style="line-height: 1.4; margin-bottom: 10px;">
+  <h3>Teaching</h3>
+
+  <p style="margin-bottom: 2px;"><strong>Guest Lecturer:</strong></p>
+  <p style="margin-top: 2px; margin-bottom: 5px;"><strong>- Harvard Medical School (2024)</strong></p>
+  <ul style="margin-top: 5px; margin-bottom: 10px;">
+    <li>CI 764B - Systems Biology and Omics Analysis II</li>
+  </ul>
+
+  <p style="margin-bottom: 2px;"><strong>Teaching Assistant:</strong></p>
+  <p style="margin-top: 2px; margin-bottom: 5px;"><strong>- Johns Hopkins Bloomberg School of Public Health (2017-2020)</strong></p>
+  <ul style="margin-top: 5px; margin-bottom: 10px;">
+    <li>Biostatistics 140.623 - Statistical Methods in Public Health III</li>
+    <li>Epidemiology 340.752 - Epidemiologic Methods II</li>
+    <li>Epidemiology 340.644 - Epidemiology of Diabetes and Obesity</li>
+    <li>Epidemiology 340.601 - Principles of Epidemiology</li>
+    <li>Epidemiology 340.636 - Epidemiology in Evidence-Based Policy</li>
+    <li>Biostatistics 140.608 - Analysis of Longitudinal Data</li>
+    <li>Biostatistics 140.613 - Data Analysis Workshop I</li>
+    <li>Biostatistics 140.614 - Data Analysis Workshop II</li>
+  </ul>
+</div>
+
+
+
 {% if site.data.awards %}
 
 <div class="jumbotron">
