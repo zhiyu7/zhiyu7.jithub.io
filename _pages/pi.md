@@ -35,7 +35,7 @@ permalink: /pi/  # Change from /about/ to /pi/
 
 <div class="jumbotron">
   <h3>Bio</h3>
-  <p>I am an investigator, asst professor (started Sep 2024; <a href="https://researchers.mgh.harvard.edu/profile/14495114/Zhi-Yu" target="_blank">page</a>) at <a href="https://www.massgeneral.org/" target="_blank">Massachusetts General Hospital</a> and an affiliate faculty at <a href="https://www.broadinstitute.org/" target="_blank">Broad Institute</a>.</p>
+  <p>I am an Investigator, Asst Prof (started Sep 2024; <a href="https://researchers.mgh.harvard.edu/profile/14495114/Zhi-Yu" target="_blank">faculty page</a>) at <a href="https://www.massgeneral.org/" target="_blank">Massachusetts General Hospital</a>, a Member of the Faculty of Medicine at <a href="https://hms.harvard.edu/" target="_blank">Harvard Medical School</a>, and an Affiliate Faculty member at <a href="https://www.broadinstitute.org/" target="_blank">Broad Institute of MIT and Harvard</a>.</p>
   <p>I was a K99 postdoc at the Broad Institute (mentors: Drs. <a href="https://natarajanlab.mgh.harvard.edu/pradeep-natarajan/" target="_blank">Pradeep Natarajan</a> and Anthony Philippakis). I completed my PhD in Epidemiology and a concurrent Master’s in Biostatistics from 2017 to 2020 at Johns Hopkins Bloomberg School of Public Health (mentors: Drs. <a href="https://med.nyu.edu/faculty/josef-coresh" target="_blank">Josef Coresh</a> and <a href="http://www.nilanjanchatterjee.com/" target="_blank">Nilanjan Chatterjee</a>).  Before these, I received my Master’s from Harvard (mentor: Dr. <a href="https://www.hsph.harvard.edu/profile/edward-giovannucci/" target="_blank">Edward Giovannucci</a>) and a Bachelor of Medicine from Hong Kong Baptist University.</p>
   <p>My research focuses on computational modeling of human multi-omics data to study the mechanisms of cardiovascular and other age-related diseases. I developed strong expertise in (1) clonal hematopoiesis and (2) large-scale proteomics. </p>
   <p>Outside research, things I’m proud of as a medical researcher are: I haven’t caught COVID, I still have natural 20/15 vision, and 50 something LDL-C. Let’s see which one I’ll quietly remove first 😎</p>
@@ -65,7 +65,7 @@ permalink: /pi/  # Change from /about/ to /pi/
   </ul>
 
   <p style="margin-bottom: 2px;"><strong>Teaching Assistant:</strong></p>
-  <p style="margin-top: 2px; margin-bottom: 5px;">- Johns Hopkins Bloomberg School of Public Health (2017-2020)</p>
+  <p style="margin-top: 2px; margin-bottom: 5px;">- Johns Hopkins Bloomberg School of Public Health (2018-2020)</p>
   <ul style="margin-top: 5px; margin-bottom: 10px;">
     <li>Biostatistics 140.623 - Statistical Methods in Public Health III</li>
     <li>Epidemiology 340.752 - Epidemiologic Methods II</li>
