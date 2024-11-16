@@ -33,7 +33,7 @@ iframe {
 ## Openings
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>Computational Associate – Genetic Epidemiology and Statistical Genetics</h4>
+<h4>Computational Associate – Genetic Epidemiology and Statistical Genetics (**closed**)</h4>
 
 Dr. Zhi Yu and <a href="https://connects.catalyst.harvard.edu/Profiles/display/Person/18372" target="_blank">Dr. Michael Honigberg</a> are jointly seeking **two** motivated and skilled computational associates to join their interdisciplinary research teams. These positions offer a unique opportunity to work on cutting-edge genetic epidemiology and statistical genetics projects, with potential focuses on polygenic risk score development, rare variant analysis, genetic association studies, and classical epidemiology.
 
