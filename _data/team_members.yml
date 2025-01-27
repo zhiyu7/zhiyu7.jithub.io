@@ -11,7 +11,7 @@
 - name: Yixuan (Kathy) Liu
   photo: Kathy.jpg
   info: Co-mentored student with Dr. Michael Honigberg
-  bio: Kathy is a master’s student in Department of Biostatistics, Computational Biology and Quantitative Genetics. Her research leverages multi-omics approaches to investigate proteomic profiles and methylation patterns associated with somatic mutations in clonal hematopoiesis of indeterminate potential (CHIP) and cardiovascular disease (CVD). She holds a dual degree in Molecular Bioscience, Genetics and Genomics from Duke Kunshan University and Duke University. 
+  bio: Kathy is a master’s student in Department of Biostatistics, Computational Biology and Quantitative Genetics, Harvard T.H. Chan School of Public Health. Her research leverages multi-omics approaches to investigate proteomic profiles and methylation patterns associated with somatic mutations in clonal hematopoiesis of indeterminate potential (CHIP) and cardiovascular disease (CVD). She holds a dual degree in Molecular Bioscience, Genetics and Genomics from Duke Kunshan University and Duke University. 
 
 - name: Zhanqing (Anthea) Hua
   photo: Anthea.jpg
@@ -22,3 +22,8 @@
   photo: Linke.jpg
   info: Computational associate jointly with Dr. Michael Honigberg
   bio: Linke Li holds a Master's degree in Biostatistics from Duke University. Her research focuses on integrating deep learning methodologies into statistical genetics to enhance disease risk prediction and identify at-risk populations. She is interested in comparing the disease prediction capabilities of deep learning methods with traditional approaches like genome-wide association studies (GWAS) and polygenic risk scores (PRS). By identifying novel genetic variations, she aims to improve risk prediction models and contribute to preventive healthcare for disease.
+
+- name: Shengxin Liang
+  photo: Shengxin.jpg
+  info: Co-mentored student with Dr. Akl Fahed
+  bio: Shengxin is currently a Master student in Pharmacoepidemiology at the Harvard School of Public Health. Her research focuses on utilizing genetic epidemiology and pharmacoepidemiology methods to investigate cardiovascular drug efficiency and safety. She holds a bachelor’s degree in biology from McGill University. In her spare time, she is interested in wildlife conservation.
